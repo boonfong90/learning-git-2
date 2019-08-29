@@ -1,4 +1,8 @@
 Hello world
 
+<<<<<<< HEAD
 x!
 hello y!!
+=======
+hello Z
+>>>>>>> z
